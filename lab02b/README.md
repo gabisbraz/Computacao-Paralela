@@ -44,5 +44,9 @@ nano lab02b.c
 #### Novo gráfico de Speedup 
 ![alt text](assets\tempo_speedup_novo.png)
 
+#### Novo gráfico de tempo de execução
+![alt text](assets\tempo_execucao_novo.png)
+
+
 #### Como obter um melhor eficiência? 
 Uma forma de deixar o programa mais eficiente em relação ao código anterior seria criando um número de threads de acordo com a quantidade de *cores* que serão utilizadas, dessa forma não perdendo eficiência na criação de threads desnecessárias. 
