@@ -34,18 +34,19 @@ nano lab02b.c
 
 
 ### 1. Qual o tempo de execução serial e paralelo para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico contendo todos os tempos de execução
-![alt text](assets\tempo_execucao.png)
+![image](https://github.com/gabisbraz/Computacao-Paralela/assets/96640975/565d2efa-fd08-4a67-a568-dec74915644a)
 
 ### 2. Qual o speedup para 1, 2, 4, 6 e 8 processadores? Desenhe um gráfico mostrando os diferentes valores de speedup.
-![alt text](assets\tempo_speedup.png)
+![image](https://github.com/gabisbraz/Computacao-Paralela/assets/96640975/c20d1d7d-8746-4431-93c9-ba72dfd870b6)
 
 ### 3. Como você acha que poderia melhorar o seu algoritmo para obter maior benefício com o paralelismo? Para provar seu ponto, refaça a solução com essa abordagem e construa um novo gráfico de speedup para 1, 2, 4, 6 e 8 processadores.
 
 #### Novo gráfico de Speedup 
-![alt text](assets\tempo_speedup_novo.png)
+![image](https://github.com/gabisbraz/Computacao-Paralela/assets/96640975/050b14a2-023a-4035-bdc9-96453120004c)
 
 #### Novo gráfico de tempo de execução
-![alt text](assets\tempo_execucao_novo.png)
+![image](https://github.com/gabisbraz/Computacao-Paralela/assets/96640975/02cc2be3-d6a4-4fe2-9b84-67b2c93d1852)
+
 
 
 #### Como obter um melhor eficiência? 
